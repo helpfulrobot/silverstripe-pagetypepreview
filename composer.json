@@ -1,5 +1,5 @@
 {
-	"name": "webbuilders-group/silverstripe-cmspagepreview",
+	"name": "webbuilders-group/silverstripe-pagetypepreview",
 	"description": "Adds a button to preview a page type when adding a new page",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "cms"],

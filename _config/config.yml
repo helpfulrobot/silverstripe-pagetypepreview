@@ -1,0 +1,7 @@
+CMSPageAddController:
+  extensions:
+    - PageTypePreviewPageAddController
+    
+Page:
+  extensions:
+    - PageTypePreviewPageExtension

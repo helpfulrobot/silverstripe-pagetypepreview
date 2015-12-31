@@ -5,7 +5,8 @@
  * @subpackage code
  * @subpackage extensions
  */
-class PageTypePreviewPageExtension extends DataExtension {
+class PageTypePreviewPageExtension extends DataExtension
+{
     
     /**
      * Preview image for use in CMS add page screen.
@@ -15,7 +16,4 @@ class PageTypePreviewPageExtension extends DataExtension {
      * @var string
      */
     private static $preview_image = '';
-      
 }
-
-?>
